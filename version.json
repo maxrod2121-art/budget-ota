@@ -1,0 +1,9 @@
+{
+  "versionCode": 17,
+  "versionName": "2.4",
+  "notes": [
+    "Les nouvelles versions te sont proposées directement dans l'appli : plus besoin du lien.",
+    "Bouton « Rechercher une mise à jour » en bas de l'écran."
+  ],
+  "url": "https://raw.githubusercontent.com/maxrod2121-art/budget-ota/main/Budget.apk"
+}
