@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "2.6",
+  "versionCode": 20,
+  "versionName": "2.7",
   "notes": [
-    "Mise à jour directement dans l'appli : plus de navigateur ni de fichier à retélécharger.",
-    "La première fois, Android te demande d'autoriser Budget à installer des applis."
+    "Version de test : vérifie la mise à jour directement dans l'appli.",
+    "Aucun changement dans tes données ni dans tes budgets."
   ],
-  "url": "https://raw.githubusercontent.com/maxrod2121-art/budget-ota/cb399c5a80cb2b87279cda9a9ae8d5da22e3d322/Budget.apk"
+  "url": "https://raw.githubusercontent.com/maxrod2121-art/budget-ota/fd622d24e65bc32ac91295ca8e78289317c98ea0/Budget.apk"
 }
