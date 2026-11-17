@@ -1,10 +1,10 @@
 {
-  "versionCode": 21,
-  "versionName": "2.8",
+  "versionCode": 22,
+  "versionName": "2.9",
   "notes": [
-    "Nouveau : « Importer des captures de ma banque ». L'appli lit tes captures d'écran et prépare les opérations, tu n'as plus qu'à choisir la catégorie.",
-    "Tout est lu sur ton téléphone, rien n'est envoyé ailleurs.",
-    "L'appli retient tes choix : la prochaine fois, les catégories sont déjà proposées."
+    "Import des captures du compte : les rentrées (virements WERO…) sont bien reconnues comme des rentrées.",
+    "Les libellés écrits sur deux lignes sont lus en entier, avec la bonne date.",
+    "Mémorisation plus précise pour les virements entre personnes."
   ],
-  "url": "https://raw.githubusercontent.com/maxrod2121-art/budget-ota/df5b855040d3c6a7831b7354ec72b54fa29a9af7/Budget.apk"
+  "url": "https://raw.githubusercontent.com/maxrod2121-art/budget-ota/aee730b69d48616e0adaae531ba471f3b7dfd4f1/Budget.apk"
 }
